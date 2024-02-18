@@ -1,0 +1,7 @@
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\obj\Debug\App_Lab.csproj.AssemblyReference.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\obj\Debug\App_Lab.csproj.CoreCompileInputs.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\bin\Debug\App_Lab.exe.config
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\bin\Debug\App_Lab.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\bin\Debug\App_Lab.pdb
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\obj\Debug\App_Lab.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\App_Lab\App_Lab\obj\Debug\App_Lab.pdb
