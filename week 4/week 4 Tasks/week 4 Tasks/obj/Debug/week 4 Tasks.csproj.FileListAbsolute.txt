@@ -1,0 +1,7 @@
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\bin\Debug\week 4 Tasks.exe.config
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\bin\Debug\week 4 Tasks.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\bin\Debug\week 4 Tasks.pdb
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\obj\Debug\week 4 Tasks.csproj.AssemblyReference.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\obj\Debug\week 4 Tasks.csproj.CoreCompileInputs.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\obj\Debug\week 4 Tasks.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\week 4\week 4 Tasks\week 4 Tasks\obj\Debug\week 4 Tasks.pdb
