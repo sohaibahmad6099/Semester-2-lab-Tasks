@@ -1,0 +1,7 @@
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\bin\Debug\Week 6.exe.config
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\bin\Debug\Week 6.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\bin\Debug\Week 6.pdb
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\obj\Debug\Week 6.csproj.AssemblyReference.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\obj\Debug\Week 6.csproj.CoreCompileInputs.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\obj\Debug\Week 6.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 6\Week 6\obj\Debug\Week 6.pdb
